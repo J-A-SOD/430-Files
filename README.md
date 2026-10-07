@@ -1,4 +1,4 @@
-# DES430-Gooner-Material
+# DES430
 
 ## NOTES - PLS READ
 
